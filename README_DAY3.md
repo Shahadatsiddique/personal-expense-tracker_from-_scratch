@@ -44,5 +44,18 @@ I tested the application with:
 Day 3 helped me understand how to modify existing data stored inside a list of dictionaries instead of only adding and displaying data.
 
 I also learned how to search through stored records using conditions and how a `found` flag can be used to handle cases where no matching data exists.
+### What I Learned
 
-**Next:** Expense analysis and reporting — category-wise total spending, date-based filtering, and better expense summaries.
+Day 3 helped me understand how to modify existing data stored inside a list of dictionaries instead of only adding and displaying data.
+
+I also learned how to search through stored records using conditions and how a `found` flag can be used to handle cases where no matching data exists.
+
+### Next — Day 4
+
+I will start working on expense analysis and reporting features:
+
+- Category-wise total spending
+- Date-based expense filtering
+- Better expense summaries and reports
+
+The goal of Day 4 is to make the expense tracker more useful for understanding and analyzing spending data.
