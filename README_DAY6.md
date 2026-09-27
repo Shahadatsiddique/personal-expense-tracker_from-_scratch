@@ -54,6 +54,23 @@ Today I learned that refactoring is not about adding new features. It is about i
 
 I also learned how functions can be used to divide a larger program into smaller responsibilities, making the code easier to understand, maintain, test, and improve.
 
+Day 6 code structure
+Expense Tracker
+│
+├── JSON Loading
+├── save_expenses()
+├── show_menu()
+│
+├── add_expense()
+├── view_expense()
+├── view_total_spending()
+├── delete_expense()
+├── update_expense()
+├── search_expense()
+├── category_wise_total()
+├── filtering_data()
+└── expense_summary()
+
 ### Next — Day 7
 
 - Improve input handling and validation
