@@ -54,7 +54,7 @@ Today I learned that refactoring is not about adding new features. It is about i
 
 I also learned how functions can be used to divide a larger program into smaller responsibilities, making the code easier to understand, maintain, test, and improve.
 
-###Day 6 code structure
+### Day 6 code structure
 
 Expense Tracker
 │
